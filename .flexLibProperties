@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="model.valueObject.Database"/>
+    <classEntry path="model.valueObject.Table"/>
+    <classEntry path="utiles.SQLCommandCreator"/>
+    <classEntry path="model.valueObject.Column"/>
+    <classEntry path="utiles.constants.Datatypes"/>
+    <classEntry path="utiles.constants.Collates"/>
+    <classEntry path="utiles.constants.OnConflict"/>
+    <classEntry path="events.DatabaseEvent"/>
+    <classEntry path="controller.CreateDatabaseFileCommand"/>
+    <classEntry path="service.SQLService"/>
+    <classEntry path="service.FileService"/>
+    <classEntry path="events.FileEvent"/>
+    <classEntry path="model.TableModel"/>
+    <classEntry path="model.ColumnModel"/>
+    <classEntry path="events.TableEvent"/>
+    <classEntry path="model.valueObject.Command"/>
+    <classEntry path="utiles.constants.CommandType"/>
+    <classEntry path="model.CommandModel"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
